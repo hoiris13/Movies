@@ -1,4 +1,4 @@
-<div align="center">
+
 # 🎬 Item-Based Collaborative Filtering
 
 A Comparative Analysis of Similarity Metrics on MovieLens
